@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/new/style"/>
+    <qresource prefix="/"/>
+</RCC>
